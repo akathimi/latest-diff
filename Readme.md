@@ -1,7 +1,7 @@
 # Installation
 
 ```
-helm plugin install https://github.com/akathimi/latest-diff
+helm 3 plugin install https://github.com/akathimi/latest-diff
 ```
 
 # Usage
