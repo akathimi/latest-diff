@@ -1,0 +1,7 @@
+name: "latest-diff"
+version: "0.1.0"
+usage: "get the lastest version of a chart and its appversion"
+description: "get the lastest version of a chart and its appversion"
+command: "$HELM_PLUGIN_DIR/scripts/list.sh"
+ignoreFlags: false
+
